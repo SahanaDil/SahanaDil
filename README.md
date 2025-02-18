@@ -8,7 +8,7 @@
      - Carnatic Music: Singing
      - High School Trading Competitions: Participating
      - Entrepreneurship Club events: Involvement
-- 📫 How to reach me ...itssaha2020@gmail.com    
+- 📫 Reach me at itssaha2020@gmail.com    
 
 
 <!---
