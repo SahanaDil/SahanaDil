@@ -26,4 +26,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-                                                                                                                                                                                                                                                     ![Visitor Count](https://profile-counter.glitch.me/SahanaDil/count.svg)
+                                                                                                                                                                                                     ![Profile Views](https://komarev.com/ghpvc/?username=SahanaDil)
+
