@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @SahanaDil
-- 👀 I’m interested in STEM Research,Machine Learning and Artificial Intelligence , Entreprenuership,IOT Design and Innovation.
-- 🌱 I’m currently learning ...DeepLearning,Working with Hugging Face ,OpenAI , Pipeling with AZure and AWS, Tableau
-- 💞️ I’m looking to collaborate on Medical Prognosis on AI, Financial Modeling with ML, AI applications on IOTs.
-- 💞️ I do
-     - Debates(Top Speaker State,Texas,Year 2024)
-     - Play Musical Keyboard( Cambridge Grade 4)
-     - Sing Carnatic Music
-     - Run for Highschool Trading Competitions
-     - Being with my Entrepreneurship Club events
+- 👀 I'm interested in STEM research, machine learning, artificial intelligence, entrepreneurship, and IoT design and innovation.
+- 🌱 I'm currently learning deep learning, working with Hugging Face, OpenAI, pipelining with Azure and AWS, and Tableau.
+- 💞️ I'm looking to collaborate on medical prognosis using AI, financial modeling with ML, and AI applications for IoT.
+- 😎 I am fond of
+     - Debates: Top Speaker (State of Texas, 2024)
+     - Musical Keyboard: Cambridge Grade 4
+     - Carnatic Music: Singing
+     - High School Trading Competitions: Participating
+     - Entrepreneurship Club events: Involvement
 - 📫 How to reach me ...itssaha2020@gmail.com    
 
 
