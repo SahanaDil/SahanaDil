@@ -10,9 +10,10 @@
      - Entrepreneurship Club events: Involvement
 - 📫 Reach me at itssaha2020@gmail.com    
 
-<p>Visitor Count:</p>
-    <img src="https://profile-counter.glitch.me/{YOUR USERNAME}/count.svg" alt="Visitor Count" />
+
 <!---
 SahanaDil/SahanaDil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p>Visitor Count:</p>
+    <img src="https://profile-counter.glitch.me/sahanadil/count.svg" alt="Visitor Count" />
