@@ -2,7 +2,7 @@
 - 👀 I'm interested in STEM research, machine learning, artificial intelligence, entrepreneurship, and IoT design and innovation.
 - 🌱 I'm currently learning Hands on MLOps,deep learning,Natual Language Processing, working with Hugging Face, OpenAI, pipelining with Azure and AWS, and Tableau.
 - 💞️ I'm looking to collaborate on medical prognosis using AI, financial modeling with ML, and AI applications for IoT.
-- 📫 Reach me at itssaha2020@gmail.com    
+- 📫 Reach me at https://sahanadil.github.io/   
 
 
 <!---
