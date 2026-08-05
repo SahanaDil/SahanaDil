@@ -14,8 +14,6 @@ I represent the transformation organizations are seeking: a practitioner who bui
 | **HOUBuddy** | Multi-agent AI orchestration system designed for complex autonomous task management. | Python, AI Agents |
 | **Houston Opportunity Radar** | Intelligence-driven geospatial analysis mapping neighborhood growth and urban opportunity. | JavaScript, OSINT |
 | **learnabout_mvp** | Autonomous learning platform for self-directed education with iterative feedback loops. | React, JavaScript |
-| **AI-lilypad-link** | Community-focused AI integration for the Kashmere Garden social initiative. | Node.js, JavaScript |
-| **JPMorgan Simulation** | Commercial banking risk analysis and financial modeling simulation. | Python, Financial ML |
 | **Stratified Healthcare** | Data science pipeline for precision medicine and healthcare stratification. | Python, Scikit-learn |
 
 > Plus **9 private repositories** covering financial modeling, career diagnostics, and proprietary multi-agent configurations. Available for live demo upon request.
